@@ -241,6 +241,7 @@ a {
 }
 a:hover {
   color: #cca000;
+  /* color:rgba(220, 53, 69, 0.9); */
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
