@@ -3,13 +3,23 @@
     <!-- <h1>{{ message }}</h1> -->
     <header class="masthead">
       <div class="container">
-        <div class="masthead-subheading">Welcome To Our Salon!</div>
-        <div class="masthead-heading text-uppercase">Posh Hair Boutique</div>
-        <a class="btn btn-primary btn-xl text-uppercase" href="#services"
-          >Tell Me More</a
-        >
+        <!-- <div class="masthead-subheading">Cori Meiklejohn LLC</div>
+        <div class="masthead-heading text-uppercase">Posh Hair Boutique</div> -->
       </div>
-  </header>
+    </header>
+      <br>
+      <br>
+    <div class="container">
+      <div class="text-center">
+        <div class="masthead-subheading">Cori Meiklejohn LLC</div>
+        <h1>Posh Hair Boutique</h1>
+        <h6>for appointment call/text 608-931-6617</h6>
+        <h5 class="masthead-subheading">
+          Great hair doesn't happen by chance, it happens by Appointment!
+        </h5>
+      </div>
+    </div>
+
   </div>
 </template>
 

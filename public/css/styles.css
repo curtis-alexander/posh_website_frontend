@@ -146,7 +146,8 @@ h4, .h4 {
 }
 
 h5, .h5 {
-  font-size: 1.25rem;
+  font-size: 2.25rem;
+  font-family: "Square Peg", cursive;
 }
 
 h6, .h6 {
@@ -11411,7 +11412,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/new-header-bg.jpg");
+  background-image: url("../assets/img/poshHB-logo.JPG");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -11422,7 +11423,8 @@ header.masthead .masthead-subheading {
   font-style: italic;
   line-height: 1.5rem;
   margin-bottom: 25px;
-  font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: "Square Peg", cursive;
+  /* font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; */
 }
 header.masthead .masthead-heading {
   font-size: 3.25rem;
