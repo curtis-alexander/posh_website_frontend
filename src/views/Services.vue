@@ -7,25 +7,21 @@
         <h3 class="section-subheading text-muted">Here's what Posh offers</h3>
       </div>
       <div class="row text-left">
-          <div class="col-md-4">
-            <!-- <span class="fa-stack fa-4x">
-              <i class="fas fa-circle fa-stack-2x text-primary"></i>
-              <i class="fas fa-sink fa-stack-1x fa-inverse"></i>
-            </span> -->
+        <div class="col-md-4">
           <h5 class="my-3 row text-center">HAIR COLOR</h5>
-        <p class="text-muted">All Over Color Root Retouch</p>
-        <p class="text-muted">All Over Color</p>
-        <p class="text-muted">Platinum Lightening Retouch</p>
-        <p class="text-muted">Partial Highlight</p>
-        <p class="text-muted">Full Head Highlight</p>
-        <p class="text-muted">Full Head Back to Back Highlight</p>
-        <p class="text-muted">All Over Color Root Retouch & Partial Highlight</p>
-        <p class="text-muted">All Over Color Root Retouch & Full Highlight</p>
-        <p class="text-muted">All Over Color & Partial Highlight</p>
-        <p class="text-muted">All Over Color & Full Highlight</p>
-        <p class="text-muted">Balayage/Foilayage</p>
-        <p class="text-muted">Balayage/Foilayage & Color Retouch</p>
-        <p class="text-muted">Toner/Gloss added to a color</p>
+          <p class="text-muted">All Over Color Root Retouch</p>
+          <p class="text-muted">All Over Color</p>
+          <p class="text-muted">Platinum Lightening Retouch</p>
+          <p class="text-muted">Partial Highlight</p>
+          <p class="text-muted">Full Head Highlight</p>
+          <p class="text-muted">Full Head Back to Back Highlight</p>
+          <p class="text-muted">All Over Color Root Retouch & Partial Highlight</p>
+          <p class="text-muted">All Over Color Root Retouch & Full Highlight</p>
+          <p class="text-muted">All Over Color & Partial Highlight</p>
+          <p class="text-muted">All Over Color & Full Highlight</p>
+          <p class="text-muted">Balayage/Foilayage</p>
+          <p class="text-muted">Balayage/Foilayage & Color Retouch</p>
+          <p class="text-muted">Toner/Gloss added to a color</p>
         </div>
         <div class="col-md-4">
           <h5 class="my-3 row text-center">Price</h5>
