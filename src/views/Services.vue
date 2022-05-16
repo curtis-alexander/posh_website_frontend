@@ -43,7 +43,7 @@
           <h5 class="my-3 row text-center">OLAPLEX & QUADRAPLEX</h5>
           <h4 class="my-3 row text-center">Strengthen * Protect * Detoxify * Repair</h4>
           <p class="text-muted">Added to your color service</p>
-          <p class="text-muted">New 3 in 1 Moisture Mask Treatment</p>
+          <p class="text-muted">New 4 in 1 Moisture Mask Treatment</p>
         </div>
         <div class="col-md-4">
           <h5 class="my-3 row text-center">Price</h5>
@@ -53,14 +53,14 @@
         </div>
         <div class="col-md-4">
           <h5 class="my-3 row text-center">HAIR CUT & STYLING</h5>
-          <p class="text-muted">Women's Hair Cut</p>
+          <p class="text-muted">Women's Cut</p>
           <p class="text-muted">--Includes a shampoo, scalp massage, blow out & simple style</p>
           <p class="text-muted">--Additional charge for curling</p>
           <p class="text-muted">Thermal Styling/Curling</p>
           <p class="text-muted">--Added to a haircut</p>
-          <p class="text-muted">Kid's Hair Cut (12 & under)</p>
+          <p class="text-muted">Kid's Cut (12 & under)</p>
           <p class="text-muted">--short/med/long</p>
-          <p class="text-muted">Men's Hair Cut</p>
+          <p class="text-muted">Men's Cut</p>
           <p class="text-muted">Shampoo & Blow Out short/long</p>
           <p class="text-muted">--Add thermal style</p>
         </div>

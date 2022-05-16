@@ -74,7 +74,7 @@
                   <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/Olaplex1.jpg" alt="..." /></div>
                   <div class="timeline-panel">
                       <div class="timeline-heading">
-                          <h4 class="subheading">OLAPLEX</h4>
+                          <h4 class="subheading">OLAPLEX Care Products</h4>
                       </div>
                       <div class="timeline-body"><p class="text-muted">OLAPLEX products are free of sulfates, phthalates, DEA, aldehydes, formaldehyde, gluten, parabens and safe for all hair! OLAPLEX assists in both preventing damage and repairing it, returning the hair to a virgin like state.
                     </p></div>

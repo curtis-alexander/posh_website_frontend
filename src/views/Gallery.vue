@@ -420,7 +420,7 @@
             <div>
               <img
                 class="img-fluid"
-                src="assets/img/gallery/35.jpg"
+                src="assets/img/gallery/40.jpg"
                 alt="..."
               />
             </div>
@@ -432,7 +432,7 @@
             <div>
               <img
                 class="img-fluid"
-                src="assets/img/gallery/36.jpeg"
+                src="assets/img/gallery/41.jpg"
                 alt="..."
               />
             </div>
@@ -444,7 +444,7 @@
             <div>
               <img
                 class="img-fluid"
-                src="assets/img/gallery/37.jpg"
+                src="assets/img/gallery/39.png"
                 alt="..."
               />
             </div>
@@ -468,7 +468,67 @@
             <div>
               <img
                 class="img-fluid"
-                src="assets/img/gallery/39.png"
+                src="assets/img/gallery/37.jpg"
+                alt="..."
+              />
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 mb-4">
+          <!-- Portfolio item 1-->
+          <div class="portfolio-item">
+            <div>
+              <img
+                class="img-fluid"
+                src="assets/img/gallery/36.jpeg"
+                alt="..."
+              />
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 mb-4">
+          <!-- Portfolio item 1-->
+          <div class="portfolio-item">
+            <div>
+              <img
+                class="img-fluid"
+                src="assets/img/gallery/42.png"
+                alt="..."
+              />
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 mb-4">
+          <!-- Portfolio item 1-->
+          <div class="portfolio-item">
+            <div>
+              <img
+                class="img-fluid"
+                src="assets/img/gallery/35.jpg"
+                alt="..."
+              />
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 mb-4">
+          <!-- Portfolio item 1-->
+          <div class="portfolio-item">
+            <div>
+              <img
+                class="img-fluid"
+                src="assets/img/gallery/43.png"
+                alt="..."
+              />
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 mb-4">
+          <!-- Portfolio item 1-->
+          <div class="portfolio-item">
+            <div>
+              <img
+                class="img-fluid"
+                src="assets/img/gallery/44.png"
                 alt="..."
               />
             </div>
